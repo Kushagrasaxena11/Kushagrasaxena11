@@ -78,27 +78,25 @@ My focus is on developing **production-oriented AI architectures** that combine 
 
 ## ⚡ Technology Arsenal
 
+
+<h2 align="center">⚡ My Technology Stack</h2>
+
 <div align="center">
 
-### Programming & Data
+### Programming
+<img src="https://skillicons.dev/icons?i=python,java,git,github&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=python,sql,bash&theme=dark" />
-
-### AI / ML / Deep Learning
-
+### AI & Machine Learning
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
 
-### Generative AI & Frameworks
+### Cloud & Engineering
+<img src="https://skillicons.dev/icons?i=azure,docker,fastapi,vscode,linux&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=fastapi,docker,azure,git,github,vscode&theme=dark" />
+### Generative AI Ecosystem
 
-**Frameworks & Ecosystem**
+`LangChain` · `LangGraph` · `Hugging Face` · `Transformers`
 
-`LangChain` · `LangGraph` · `Hugging Face` · `Transformers` · `OpenAI APIs` · `MCP`
-
-**Vector Databases**
-
-`FAISS` · `ChromaDB` · `Pinecone` · `Vector Search`
+`OpenAI` · `Vector Databases` · `MCP` · `RAGAS`
 
 </div>
 
@@ -142,17 +140,21 @@ My focus is on developing **production-oriented AI architectures** that combine 
 
 ## 📊 GitHub Analytics
 
+
+<h2 align="center">📊 GitHub Performance Dashboard</h2>
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kushagrasaxena11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kushagrasaxena11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagrasaxena11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagrasaxena11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Kushagrasaxena11&theme=tokyonight&hide_border=true" width="70%" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Kushagrasaxena11&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 
 ---
