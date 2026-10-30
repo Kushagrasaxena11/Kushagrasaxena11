@@ -154,17 +154,39 @@ My focus is on developing **production-oriented AI architectures** that combine 
 
 </div>
 
+
 ---
 
 ## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kushagrasaxena11/Kushagrasaxena11/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%"/>
+### Watch My Coding Journey! 🚀
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Kushagrasaxena11/Kushagrasaxena11/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Kushagrasaxena11/Kushagrasaxena11/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/Kushagrasaxena11/Kushagrasaxena11/output/github-snake.svg"
+    width="100%"
+  />
+</picture>
+
+<br/>
+
+**Consistency | Learning | Building | Innovating**
 
 </div>
 
 ---
+
 
 ## 🤝 Let's Connect & Collaborate
 
